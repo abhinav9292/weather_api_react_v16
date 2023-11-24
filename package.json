@@ -2,7 +2,7 @@
   "name": "weather_api_rv16",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://abhinav9292.github.io/weather_api_rv16",
+  "homepage": "https://abhinav9292.github.io/weather_api_rv16",
   "dependencies": {
     "npm": "^8.5.5",
     "react": "^16.8.6",
