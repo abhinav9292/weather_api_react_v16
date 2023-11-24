@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://abhinav9292/weather_api_rv16",
   "dependencies": {
+    "npm": "^8.5.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^5.0.1"
